@@ -1,1 +1,1 @@
-# please take a look at the file named DataScienceEcosystem - Hiroki Tamiya
+# Please find the file named 'DataScienceEcosystem.ipynb'
